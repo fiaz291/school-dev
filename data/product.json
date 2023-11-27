@@ -1,0 +1,435 @@
+[
+  
+    {
+      "title": "Summer Breeze Tank Top",
+      "product_name": "Sunshine Chic",
+      "image": "/static/images/product.png",
+      "price": 30,
+      "category": "tops",
+      "size": "medium",
+      "season": "summer"
+    },
+    {
+      "title": "Comfy Jeans",
+      "product_name": "Denim Delight",
+      "image": "/static/images/product.png",
+      "price": 45,
+      "category": "bottoms",
+      "size": "large",
+      "season": "fall"
+    },
+    {
+      "title": "Warm and Cozy Pullover",
+      "product_name": "Autumn Bliss",
+      "image": "/static/images/product.png",
+      "price": 60,
+      "category": "sweater",
+      "size": "xl",
+      "season": "winter"
+    },
+    {
+      "title": "Stylish Sunglasses",
+      "product_name": "Urban Elegance",
+      "image": "/static/images/product.png",
+      "price": 25,
+      "category": "accessories",
+      "size": "medium",
+      "season": "spring"
+    },
+    {
+      "title": "Casual Shorts",
+      "product_name": "Summer Fun",
+      "image": "/static/images/product.png",
+      "price": 35,
+      "category": "bottoms",
+      "size": "small",
+      "season": "summer"
+    },
+    {
+      "title": "Cotton V-neck Tee",
+      "product_name": "Everyday Comfort",
+      "image": "/static/images/product.png",
+      "price": 22,
+      "category": "tops",
+      "size": "large",
+      "season": "spring"
+    },
+    {
+      "title": "Leather Jacket",
+      "product_name": "Rebel Chic",
+      "image": "/static/images/product.png",
+      "price": 75,
+      "category": "jackets",
+      "size": "medium",
+      "season": "fall"
+    },
+    {
+      "title": "Striped Sweater",
+      "product_name": "Cozy Stripes",
+      "image": "/static/images/product.png",
+      "price": 55,
+      "category": "sweater",
+      "size": "xxl",
+      "season": "winter"
+    },
+    {
+      "title": "Casual Dress",
+      "product_name": "Spring Fling",
+      "image": "/static/images/product.png",
+      "price": 40,
+      "category": "dresses",
+      "size": "medium",
+      "season": "spring"
+    },
+    {
+      "title": "Classic Denim Jacket",
+      "product_name": "Vintage Vibes",
+      "image": "/static/images/product.png",
+      "price": 70,
+      "category": "jackets",
+      "size": "large",
+      "season": "fall"
+    },
+    {
+      "title": "Cozy Hoodie",
+      "product_name": "Winter Wonderland",
+      "image": "/static/images/product.png",
+      "price": 50,
+      "category": "sweater",
+      "size": "xl",
+      "season": "winter"
+    },
+    {
+      "title": "Printed Scarf",
+      "product_name": "Chic Accents",
+      "image": "/static/images/product.png",
+      "price": 18,
+      "category": "accessories",
+      "size": "medium",
+      "season": "fall"
+    },
+    {
+      "title": "Beach Shorts",
+      "product_name": "Sunny Shore",
+      "image": "/static/images/product.png",
+      "price": 28,
+      "category": "bottoms",
+      "size": "small",
+      "season": "summer"
+    },
+    {
+      "title": "Silk Blouse",
+      "product_name": "Elegant Evening",
+      "image": "/static/images/product.png",
+      "price": 65,
+      "category": "tops",
+      "size": "medium",
+      "season": "spring"
+    },
+    {
+      "title": "Quilted Vest",
+      "product_name": "Outdoor Explorer",
+      "image": "/static/images/product.png",
+      "price": 45,
+      "category": "jackets",
+      "size": "large",
+      "season": "fall"
+    },
+    {
+      "title": "Knit Beanie",
+      "product_name": "Winter Warmth",
+      "image": "/static/images/product.png",
+      "price": 20,
+      "category": "accessories",
+      "size": "medium",
+      "season": "winter"
+    },
+    {
+      "title": "Floral Sundress",
+      "product_name": "Blooming Beauty",
+      "image": "/static/images/product.png",
+      "price": 55,
+      "category": "dresses",
+      "size": "xl",
+      "season": "summer"
+    },
+    {
+      "title": "Polo Shirt",
+      "product_name": "Casual Classic",
+      "image": "/static/images/product.png",
+      "price": 30,
+      "category": "tops",
+      "size": "large",
+      "season": "spring"
+    },
+    {
+      "title": "Leather Boots",
+      "product_name": "Urban Explorer",
+      "image": "/static/images/product.png",
+      "price": 75,
+      "category": "footwear",
+      "size": "medium",
+      "season": "fall"
+    },
+    {
+      "title": "Cozy Cardigan",
+      "product_name": "Fall Comfort",
+      "image": "/static/images/product.png",
+      "price": 50,
+      "category": "sweater",
+      "size": "xxl",
+      "season": "winter"
+    },
+    {
+      "title": "Classic Belt",
+      "product_name": "Timeless Style",
+      "image": "/static/images/product.png",
+      "price": 22,
+      "category": "accessories",
+      "size": "medium",
+      "season": "spring"
+    },
+    {
+      "title": "Sporty Shorts",
+      "product_name": "Active Lifestyle",
+      "image": "/static/images/product.png",
+      "price": 35,
+      "category": "bottoms",
+      "size": "small",
+      "season": "summer"
+    },
+    {
+      "title": "Linen Blouse",
+      "product_name": "Light Breeze",
+      "image": "/static/images/product.png",
+      "price": 28,
+      "category": "tops",
+      "size": "medium",
+      "season": "spring"
+    },
+    {
+      "title": "Quilted Jacket",
+      "product_name": "City Explorer",
+      "image": "/static/images/product.png",
+      "price": 70,
+      "category": "jackets",
+      "size": "large",
+      "season": "fall"
+    },
+    {
+      "title": "Chunky Knit Sweater",
+      "product_name": "Winter Wonderland",
+      "image": "/static/images/product.png",
+      "price": 60,
+      "category": "sweater",
+      "size": "xl",
+      "season": "winter"
+    },
+    {
+      "title": "Fashionable Watch",
+      "product_name": "Timeless Elegance",
+      "image": "/static/images/product.png",
+      "price": 40,
+      "category": "accessories",
+      "size": "medium",
+      "season": "spring"
+    },
+    {
+      "title": "Cargo Pants",
+      "product_name": "Adventure Ready",
+      "image": "/static/images/product.png",
+      "price": 45,
+      "category": "bottoms",
+      "size": "large",
+      "season": "summer"
+    },
+    {
+      "title": "Satin Blouse",
+      "product_name": "Evening Elegance",
+      "image": "/static/images/product.png",
+      "price": 32,
+      "category": "tops",
+      "size": "medium",
+      "season": "spring"
+    },
+    {
+      "title": "Faux Leather Jacket",
+      "product_name": "Rock Chic",
+      "image": "/static/images/product.png",
+      "price": 65,
+      "category": "jackets",
+      "size": "xl",
+      "season": "fall"
+    },
+    {
+      "title": "Hooded Parka",
+      "product_name": "Winter Expedition",
+      "image": "/static/images/product.png",
+      "price": 80,
+      "category": "jackets",
+      "size": "large",
+      "season": "winter"
+    },
+    {
+      "title": "Elegant Scarf",
+      "product_name": "Sophisticated Charm",
+      "image": "/static/images/product.png",
+      "price": 28,
+      "category": "accessories",
+      "size": "medium",
+      "season": "fall"
+    },
+    {
+      "title": "Beach Cover-up",
+      "product_name": "Seaside Serenity",
+      "image": "/static/images/product.png",
+      "price": 38,
+      "category": "dresses",
+      "size": "small",
+      "season": "summer"
+    },
+    {
+      "title": "Silk Kimono",
+      "product_name": "Glamorous Nights",
+      "image": "/static/images/product.png",
+      "price": 70,
+      "category": "dresses",
+      "size": "medium",
+      "season": "spring"
+    },
+    {
+      "title": "Wool Sweater",
+      "product_name": "Winter Warmth",
+      "image": "/static/images/product.png",
+      "price": 55,
+      "category": "sweater",
+      "size": "xxl",
+      "season": "winter"
+    },
+    {
+      "title": "Stylish Hat",
+      "product_name": "City Chic",
+      "image": "/static/images/product.png",
+      "price": 20,
+      "category": "accessories",
+      "size": "medium",
+      "season": "fall"
+    },
+    {
+      "title": "Athletic Shorts",
+      "product_name": "Fitness Fusion",
+      "image": "/static/images/product.png",
+      "price": 25,
+      "category": "bottoms",
+      "size": "small",
+      "season": "summer"
+    },
+    {
+      "title": "Denim Jacket",
+      "product_name": "Vintage Vibes",
+      "image": "/static/images/product.png",
+      "price": 60,
+      "category": "jackets",
+      "size": "large",
+      "season": "spring"
+    },
+    {
+      "title": "Chunky Knit Cardigan",
+      "product_name": "Cozy Comfort",
+      "image": "/static/images/product.png",
+      "price": 50,
+      "category": "sweater",
+      "size": "xl",
+      "season": "fall"
+    },
+    {
+      "title": "Luxury Watch",
+      "product_name": "Timeless Beauty",
+      "image": "/static/images/product.png",
+      "price": 75,
+      "category": "accessories",
+      "size": "medium",
+      "season": "winter"
+    },
+    {
+      "title": "Cargo Shorts",
+      "product_name": "Adventure Awaits",
+      "image": "/static/images/product.png",
+      "price": 30,
+      "category": "bottoms",
+      "size": "large",
+      "season": "summer"
+    },
+    {
+      "title": "Satin Dress",
+      "product_name": "Evening Glamour",
+      "image": "/static/images/product.png",
+      "price": 45,
+      "category": "dresses",
+      "size": "medium",
+      "season": "spring"
+    },
+    {
+      "title": "Quilted Bomber Jacket",
+      "product_name": "Urban Edge",
+      "image": "/static/images/product.png",
+      "price": 65,
+      "category": "jackets",
+      "size": "xl",
+      "season": "fall"
+    },
+    {
+      "title": "Fleece-lined Hoodie",
+      "product_name": "Winter Coziness",
+      "image": "/static/images/product.png",
+      "price": 55,
+      "category": "sweater",
+      "size": "xxl",
+      "season": "winter"
+    },
+    {
+      "title": "Leather Gloves",
+      "product_name": "Classic Elegance",
+      "image": "/static/images/product.png",
+      "price": 28,
+      "category": "accessories",
+      "size": "medium",
+      "season": "fall"
+    },
+    {
+      "title": "Beach Shorts",
+      "product_name": "Sunny Days",
+      "image": "/static/images/product.png",
+      "price": 33,
+      "category": "bottoms",
+      "size": "small",
+      "season": "summer"
+    },
+    {
+      "title": "Silk Blouse",
+      "product_name": "Elegant Charm",
+      "image": "/static/images/product.png",
+      "price": 40,
+      "category": "tops",
+      "size": "large",
+      "season": "spring"
+    },
+    {
+      "title": "Quilted Vest",
+      "product_name": "Outdoor Adventure",
+      "image": "/static/images/product.png",
+      "price": 48,
+      "category": "jackets",
+      "size": "medium",
+      "season": "fall"
+    },
+    {
+      "title": "Cashmere Scarf",
+      "product_name": "Winter Luxury",
+      "image": "/static/images/product.png",
+      "price": 70,
+      "category": "accessories",
+      "size": "large",
+      "season": "winter"
+    }
+ ]
